@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+  <head>
+     <meta charset="utf-8">
+	 <meta name="viewpoint" contant="width=device-width">
+	 <meta name="descrption" content="affortable and peofessional web design">
+	 <meta name="keywords" contant="web design, affrtable web design,professional design">
+	 <meta name"auther" contant="srinivasan from payilagam">
+	 
+	    <title> Srini Web Design | Welcome</title>
+		<link rel="stylesheet" href="style.css">
+		
+</head>
+    <body>
+	  <header>
+	    <div class="container">
+		        <div id="branding">
+                 <h1><span class= "highlight">Srini</span> Web Design</h1> 
+				 </div>
+			   <nav>
+				<ul>
+				  <li class="current"> <a href="index.html"> Home </a></li>
+				  <li> <a href="about.html"> About</a></li>
+				  <li> <a href="services.html"> Services</a></li>
+				 </ul> 				
+		       </nav>
+				 
+         </div>
+      </header>
+	      <section id="showcase">
+		 <div class="container">
+		 <pre>
+		  <h1>Forget the past.</h1><br>
+		  <h1>              -Nelson Mandela </h1>
+		  </pre>
+
+		 </div>
+	  </section>
+	       
+		<section id="newsletter">
+		   <div class="container">
+		      <h1> Subscribe to newsletter</h1>
+			  <form>
+			  <input type = "email" placeholder="Enter your Email...."/>
+			  <button type="submit" class="button-1">Subscribe</button> 
+			  </form>	   
+		  </div>
+		</section>
+		<br>
+      <section id="boxes">
+	     <div class="container">
+		      <div class="box">
+			  <img src= "html.jpg">
+		           <h3>HTML5 Markup</h3>
+			         <p>This HTML tutorial contains hundreds of HTML examples    </p>
+		      </div>
+	  
+	          <div class="box">
+			  <img src= "css.jpg">
+		         <h3>CSS STYLE</h3>
+			      <p>This CSS tutorial contains hundreds of CSS examples    </p>
+		      </div>
+			      <div class="box">
+				  <img src= "js.jpg">
+		              <h3>Java Script</h3>
+			            <p>This Java Script tutorial contains hundreds of Java Script  examples    </p>
+		           </div>
+	     </div>
+</section>	
+  <footer>
+  <p> srini web design, copyright & copy;2019</p>
+   
+
+</footer>
+   
+	  
+
+             	  
+  
+  
+  
+  
+  
+    </body>
+  
+</html>
+		
